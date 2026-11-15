@@ -1,2 +1,4 @@
-# km-course-A_social_game
-This is a comprehensive overview of an ambitious game design project!!!!
+# 机器学习课程笔记
+这是一个持续更新的课程笔记合集，包括机器学习、深度学习、智能体等课程的学习记录，后续或许还会有新课程的加入，敬请期待！
+
+
