@@ -9,7 +9,7 @@
 | 成员 | 负责专题 | 负责的资源 | 交叉审阅对象 |
 | --- | --- | --- | --- |
 | Isma | [疾病与健康](https://github.com/OvOlyh/PublicHealthData-CN/wiki/%E7%96%BE%E7%97%85%E4%B8%8E%E5%81%A5%E5%BA%B7) | [WHO GHO](https://github.com/OvOlyh/PublicHealthData-CN/wiki/WHO-GHO)、[GBD](https://github.com/OvOlyh/PublicHealthData-CN/wiki/GBD)、[CDC WONDER](https://github.com/OvOlyh/PublicHealthData-CN/wiki/CDC-WONDER) | OctopusKiss 的人群健康专题 |
-| 淡水鱼 | [卫生服务](https://github.com/OvOlyh/PublicHealthData-CN/wiki/%E5%8D%AB%E7%94%9F%E6%9C%8D%E5%8A%A1) | [OECD Health](https://github.com/OvOlyh/PublicHealthData-CN/wiki/OECD-Health)、World Bank HNP、Medicare Data | Isma 的疾病与健康专题 |
+| 淡水鱼 | [卫生服务](https://github.com/OvOlyh/PublicHealthData-CN/wiki/%E5%8D%AB%E7%94%9F%E6%9C%8D%E5%8A%A1) | [OECD Health](https://github.com/OvOlyh/PublicHealthData-CN/wiki/OECD-Health)、[World Bank HNP](https://github.com/OvOlyh/PublicHealthData-CN/wiki/World-Bank-HNP)、[Medicare Data](https://github.com/OvOlyh/PublicHealthData-CN/wiki/Medicare-Data) | Isma 的疾病与健康专题 |
 | OctopusKiss | [人群健康](https://github.com/OvOlyh/PublicHealthData-CN/wiki/Population%E2%80%90Health%E2%80%90Data) | [UNICEF Data](https://github.com/OvOlyh/PublicHealthData-CN/wiki/UNICEF%E2%80%90Data)、[NHANES](https://github.com/OvOlyh/PublicHealthData-CN/wiki/NHANES)、[HealthData.gov](https://github.com/OvOlyh/PublicHealthData-CN/wiki/HealthData%E2%80%90gov) | 淡水鱼的卫生服务专题 |
 
 Isma 编写了疾病与健康的三个资源条目，并补充了 WHO GHO 指标检索与 API 查询的实践指南。
